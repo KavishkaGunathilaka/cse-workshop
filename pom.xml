@@ -32,7 +32,11 @@
     <repository>
     <id>github</id>
     <name>GitHub Packages</name>
+<<<<<<< HEAD
     <url>https://maven.pkg.github.com/KavishkaGunathilaka/cse-workshop</url>
+=======
+    <url>https://maven.pkg.github.com/<username>/<repository></url>
+>>>>>>> 3d7b0d4e840b582676b7d4a2c9698f6b0ca65e18
     </repository>
   </distributionManagement>
 
